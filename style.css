@@ -1,0 +1,23 @@
+.form-group{
+    padding-left: 30px;
+    
+}
+.myimage{
+    border-radius: 50%;
+    width: 200px;
+}
+.background {
+    background-color: lavender;
+}
+#cv-temlates{
+    display: none;
+}
+.textT {
+    font-family: cursive;
+}
+footer {
+    background-color: khaki;
+}
+body{
+    background-color: azure;
+}
